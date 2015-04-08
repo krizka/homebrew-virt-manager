@@ -1,6 +1,6 @@
 class VirtManager < Formula
   homepage "https://virt-manager.org/"
-  url "https://virt-manager.org/download/sources/virt-manager/virt-manager-1.1.0.tar.gz"
+  url "https://virt-manager.org/released/virt-manager/virt-manager-1.1.0.tar.gz"
   sha256 "ab0906cb15a132f1893f89ac4ca211c6c2c9c2d1860fbc285edbf9451c0f7941"
 
   depends_on "pkg-config" => :build
